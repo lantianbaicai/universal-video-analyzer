@@ -1,0 +1,45 @@
+# 敏感配置
+.env
+.env.local
+.env.*.local
+
+# 日志文件
+*.log
+video_analyzer.log
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+
+# 视频分析临时文件
+*_frames/
+*_audio.wav
+*_分析报告.md
+
+# 测试文件
+test_*.py
+tests/
