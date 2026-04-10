@@ -15,7 +15,7 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/你的用户名/doubao-video-analyzer.git
+git clone https://github.com/lantianbaicai/doubao-video-analyzer.git
 cd doubao-video-analyzer
 ```
 
